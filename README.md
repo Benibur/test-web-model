@@ -4,7 +4,7 @@
 
 * html templating : jade
 * css templating : stylus
-* j suggar : CoffeeScript
+* js suggar : CoffeeScript
 
 ## directories
 
